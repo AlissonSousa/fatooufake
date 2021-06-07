@@ -1,0 +1,8 @@
+{
+  "name": "ProjetoFatoOuFake",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
